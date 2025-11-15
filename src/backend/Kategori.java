@@ -118,6 +118,7 @@ public class Kategori {
     
     @Override
     public String toString() {
-        return nama;
+        return this.nama;
+        
     }
 }
